@@ -1,7 +1,7 @@
 ### Olá! Eu sou Gabriel Luiz 👋
 
-- 🤓 Atualmente estou aprendendo JAVA, C, HTML, CSS e JS. 
-- 🤓 I am currently learning JAVA, C, HTML, CSS and JS. 
+- 🤓 Atualmente estou aprendendo JAVA, C, HTML. 
+- 🤓 I am currently learning JAVA, C, HTML. 
 
 <div align="center">
  <div align="center">
